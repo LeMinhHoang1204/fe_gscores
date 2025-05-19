@@ -7,7 +7,7 @@
 This repository contains the frontend source code for **G-Scores**, a web-based platform for viewing and analyzing scores from the 2024 National High School Exam (Vietnam).  
 The application is built with **ReactJS** using **TailAdmin** for UI components and layout. It provides responsive score lookup, top student listings, and detailed data visualization using interactive charts.
 
-## 🌐 Product: [https://gscoresowl.vercel.app](https://gscoresowl.vercel.app)
+## 🌐 Product: [https://fe-gscores.vercel.app](https://fe-gscores.vercel.app)
 
 ## ✨ Features
 
